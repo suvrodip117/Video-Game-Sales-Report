@@ -1,2 +1,11 @@
 # Video-Game-Sales-Report
-Full stack web development project that performs CRUD operations, trains Machine Learning model and helps in predicting sales of a video game. User can also download the metrics report in the form of Excel
+Full stack web development project that performs CRUD operations and trains Machine Learning model to predicting global sale of a video game in a particular year. Web-scraping from Wikipedia has been done to fill missing values for release year and Publisher name. User can also download the metrics report in the form of Excel. The dataset has been taken from Kaggle: https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings
+
+Tech stack:
+
+Web Scaping - BeautifulSoup
+Frontend - ReactJS, React Bootstrap, Axios
+Backend - Spring Boot, Apache POI, FastAPI, SQLAlchemy
+Database - MySQL
+Machine Learning - Pandas, numpy, sklearn, scipy, matplotlib, pydantic, joblib
+Deployment tools/services - Vercel, Render, Maven, Docker, Google App Script
