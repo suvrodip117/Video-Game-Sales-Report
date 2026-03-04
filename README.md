@@ -9,3 +9,5 @@ Backend - Spring Boot, Apache POI, FastAPI, SQLAlchemy
 Database - MySQL
 Machine Learning - Pandas, numpy, sklearn, scipy, matplotlib, pydantic, joblib
 Deployment tools/services - Vercel, Render, Maven, Docker, Google App Script
+
+Project published in url: https://video-game-sales-report.vercel.app/
