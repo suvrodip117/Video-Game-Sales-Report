@@ -1,0 +1,7 @@
+$env:DATABASE_URL="jdbc:mysql://sql12.freesqldatabase.com:3306/sql12817149"
+$env:DATABASE_USERNAME="sql12817149"
+$env:DATABASE_PASSWORD="HxbfnsxbeL"
+$env:ML_API_URL="http://localhost:8000"
+$env:ML_API_TRAIN_ENDPOINT="/train"
+$env:ML_API_PREDICT_ENDPOINT="/predict"
+$env:REACT_URL="http://localhost:5173"
