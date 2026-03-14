@@ -3,11 +3,11 @@ Full stack web development project that performs CRUD operations and trains Mach
 
 Tech stack:
 
-Web Scaping - BeautifulSoup
-Frontend - ReactJS, React Bootstrap, Axios
-Backend - Spring Boot, Apache POI, FastAPI, SQLAlchemy
-Database - MySQL
-Machine Learning - Pandas, numpy, sklearn, scipy, matplotlib, pydantic, joblib
-Deployment tools/services - Vercel, Render, Maven, Docker, Google App Script
+1.Web Scaping - BeautifulSoup
+2.Frontend - ReactJS, React Bootstrap, Axios
+3.Backend - Spring Boot, Apache POI, FastAPI, SQLAlchemy
+4.Database - MySQL
+5.Machine Learning - Pandas, numpy, sklearn, scipy, matplotlib, pydantic, joblib
+6.Deployment tools/services - Vercel, Render, Maven, Docker, Google App Script
 
 Project published in url: https://video-game-sales-report.vercel.app/
